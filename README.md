@@ -15,6 +15,7 @@ confusion matrix. The accuracy was observed around 78% accuracy with 86-87% of p
 Here I used vectorization techniques such as Bag of Words, TF-IDF and word2Vec to use textual information and utilised the above machine learning algorithms
 along with hyperparameter tuning for sentiment analysis. The Multinomial Naive Bayes Model acheived 89% accuracy and 0.95 AUC score while the KNN and Random Forest 
 Models acheived accuracies of around 85-87% and AUC scores of 0.92.
+<br>
 **3) Using Deep Learning**
 <br>
 **Part A)** Here I used Artificial Neural Networks with only Dense Layers and two Dropout Layers. Initially I displayed the effect of regularization and dropout layer
