@@ -2,6 +2,7 @@
 In this repository I have utilised 6 different NLP Variations to predict the sentiments of the user as per the twitter reviews on airline. The dataset is 
 Twitter US Airline Sentiment. The dataset has been imported from Kaggle with the following link:- 
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment/download
+<br>
 The text preprocessing involved removal of stopwords,punctuations and lemmatization taking care of POS Tags.I have used six methodologies for this classification.
 <br>
 **1) Without Any Vectorization**
