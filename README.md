@@ -21,5 +21,5 @@ Models acheived accuracies of around 85-87% and AUC scores of 0.92.
 **Part A)** Here I used Artificial Neural Networks with only Dense Layers and two Dropout Layers. Initially I displayed the effect of regularization and dropout layer
 on our prediction. After that I did hyperparamter tuning using **Keras Tuner** and acheived test and validation set accuracies of around 92-93% 
 <br>
-**Part B)** Here I used Embedding Layers and LSTMs alongside Dense and Dropout Layers. I further did hyperparameter tuning using Keras Tuner and acheived 98% accuracy
-on test set and around 93% on validation set.
+**Part B)** Here I used Embedding Layers and LSTMs alongside Dense and Dropout Layers. I further did hyperparameter tuning for each of the Embedding, LSTM and Dense
+layers using Keras Tuner and acheived 98% accuracy on test set and around 93% on validation set.
