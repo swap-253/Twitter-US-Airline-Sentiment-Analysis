@@ -24,3 +24,5 @@ on our prediction. After that I did hyperparamter tuning using **Keras Tuner** a
 <br>
 **Part B)** Here I used Embedding Layers and LSTMs alongside Dense and Dropout Layers. I further did hyperparameter tuning for each of the Embedding, LSTM and Dense
 layers using Keras Tuner and acheived 98% accuracy on test set and around 93% on validation set in just 4 iterations.
+<br>
+**Part C)** Here I used Embedding Layers and Bidirectional LSTM alongside Dense and Dropout Layers. I further did hyperparameter tuning for each of the Embedding, Bidirectional LSTM and Dense layers using Keras Tuner and acheived 97.23% accuracy on test set and around 94.26% on validation set in just 4 iterations.
