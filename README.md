@@ -7,7 +7,6 @@ https://www.kaggle.com/crowdflower/twitter-airline-sentiment/download
 1) **Free courses online.me tutorials on Sentiment Analysis**
 2) **Analytics India Dimag Tutorial on Sentiment Analysis Using LSTM**:-https://analyticsindiamag.com/how-to-implement-lstm-rnn-network-for-sentiment-analysis/
 <br>
-<br>
 The text preprocessing involved removal of stopwords,punctuations and lemmatization taking care of POS Tags.I have used six methodologies for this classification.
 <br>
 **1) Without Any Vectorization**
