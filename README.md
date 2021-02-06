@@ -1,9 +1,9 @@
 # Twitter-US-Airline-Sentiment-Analysis
 ## References
-1) Free courses online.me tutorials on Sentiment Analysis
-2) Analytics India Dimag Tutorial on Sentiment Analysis Using LSTM:-https://analyticsindiamag.com/how-to-implement-lstm-rnn-network-for-sentiment-analysis/
-<br>
-### About Dataset
+1) **Krish Naik Tutorial For KNN**:-(https://github.com/krishnaik06/Recommendation_complete_tutorial/tree/master/KNN%20Movie%20Recommendation) 
+2) **Matrix Factorization Recommender System inspired from Netflix Prize**:- (https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
+3) **Analytics Vidhya Tutorial For Recommendation Engine**:-(https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
+### About Dataset 
 In this repository I have utilised 6 different NLP Variations to predict the sentiments of the user as per the twitter reviews on airline. The dataset is 
 Twitter US Airline Sentiment. The dataset has been imported from Kaggle with the following link:- 
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment/download
