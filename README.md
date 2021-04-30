@@ -3,7 +3,7 @@
 1) **Free courses online.me tutorials on Sentiment Analysis** 
 2) **Analytics India Dimag Tutorial on Sentiment Analysis Using LSTM**:-(https://analyticsindiamag.com/how-to-implement-lstm-rnn-network-for-sentiment-analysis/)
 ### About Dataset 
-In this repository I have utilised 6 different NLP Variations to predict the sentiments of the user as per the twitter reviews on airline. The dataset is 
+In this repository I have utilised 6 different NLP Models to predict the sentiments of the user as per the twitter reviews on airline. The dataset is 
 Twitter US Airline Sentiment. The best models each from ML and DL have been deployed using **Flask and Heroku platform**. The dataset has been imported from Kaggle with the following link:- 
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment/download
 <br>
