@@ -9,21 +9,21 @@
 	<header>
 		<div class="container">
 		<div id="brandname">
-			ML App
+			<h1>ML App Utilizing Multinomial Bayes
 		</div>
 		<h2>Sentiment Detector For Airline Tweets</h2>
 		
 	</div>
 	</header>
-	<p style="color:blue;font-size:20;text-align: center;"><b>Results for Comment</b></p>
+	<p style="color:green;font-size:20;text-align: center;"><b><h2>Results For The Tweet</b></p>
 	<div class="results">
 
 
 		
 	{% if prediction == [1]%}
-	<h2 style="color:red;">The sentiment of tweet is positive</h2>
+	<h2 style="color:purple;">The sentiment of tweet is positive</h2>
 	{% elif prediction == [0]%}
-	<h2 style="color:blue;">The sentiment of tweet is negative</h2>
+	<h2 style="color:red;">The sentiment of tweet is negative</h2>
 	{% endif %}
 
 	</div>
