@@ -36,4 +36,4 @@ layers using Keras Tuner and acheived 98% accuracy on test set and around 93% on
 <br>
 **Part C)** Here I used Embedding Layers and Bidirectional LSTM alongside Dense and Dropout Layers. I further did hyperparameter tuning for each of the Embedding, Bidirectional LSTM and Dense layers using Keras Tuner and acheived 97.23% accuracy on test set and around 94.26% on validation set in just 4 iterations.
 <br>
-Here the best results were attained by **LSTM Model**. Hence I created its **file as lstm_model.h5** and deployed it on Flask. Its size was above 25 MB leading to difficulty of upload. So its jupyter notebook has been added in the folder **Deep Learning Models with deployment on flask** which downloads lstm_model.h5 in google colab.
+Here the best results were attained by **LSTM Model**. Hence I created its **file as lstm_model.h5** and deployed it on Flask. Its size was above 25 MB leading to difficulty of upload. So its jupyter notebook has been added in the folder **Deep Learning Models with deployment on flask** which downloads lstm_model.h5 in **Google Colab**.
