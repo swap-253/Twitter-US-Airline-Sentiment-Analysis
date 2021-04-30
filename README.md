@@ -25,6 +25,7 @@ Models acheived accuracies of around 85-87% and AUC scores of 0.92.
 Here the best results were attained by **Multinomial Naive Bayes**. Hence I created its pickle file and deployed on Flask and Heroku. Click the link below and enter the text whose sentiment you wanna know.
 <br>
 https://firstnlpdeployedapp.herokuapp.com/
+<br>
 **3) Using Deep Learning**
 <br>
 **Part A)** Here I used Artificial Neural Networks with only Dense Layers and two Dropout Layers. Initially I displayed the effect of regularization and dropout layer
