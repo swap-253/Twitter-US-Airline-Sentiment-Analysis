@@ -26,6 +26,9 @@ Here the best results were attained by **Multinomial Naive Bayes**. Hence I crea
 <br>
 https://firstnlpdeployedapp.herokuapp.com/
 <br>
+
+![Untitled1](https://user-images.githubusercontent.com/75975560/116718940-230d7480-a9f8-11eb-9ffd-dc1ad590d0d7.png)
+
 **3) Using Deep Learning**
 <br>
 **Part A)** Here I used Artificial Neural Networks with only Dense Layers and two Dropout Layers. Initially I displayed the effect of regularization and dropout layer
