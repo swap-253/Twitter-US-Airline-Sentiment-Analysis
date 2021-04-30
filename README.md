@@ -22,7 +22,7 @@ Here I used vectorization techniques such as Bag of Words, TF-IDF and word2Vec t
 along with hyperparameter tuning for sentiment analysis. The Multinomial Naive Bayes Model acheived 89% accuracy and 0.95 AUC score while the KNN and Random Forest 
 Models acheived accuracies of around 85-87% and AUC scores of 0.92.
 <br>
-Here the best results were attained by **Multinomial Naive Bayes**. Hence I created its **pickle file** and deployed on Flask and Heroku. Click the link below and enter the text whose sentiment you wanna know.
+Here the best results were attained by **Multinomial Naive Bayes**. Hence I created its **pickle file** and deployed on Flask and Heroku.To see the deployment open folder **Deep Learning Models with deployment on flask**. Click the link below and enter the text whose sentiment you wanna know.
 <br>
 https://firstnlpdeployedapp.herokuapp.com/
 <br>
@@ -36,4 +36,4 @@ layers using Keras Tuner and acheived 98% accuracy on test set and around 93% on
 <br>
 **Part C)** Here I used Embedding Layers and Bidirectional LSTM alongside Dense and Dropout Layers. I further did hyperparameter tuning for each of the Embedding, Bidirectional LSTM and Dense layers using Keras Tuner and acheived 97.23% accuracy on test set and around 94.26% on validation set in just 4 iterations.
 <br>
-Here the best results were attained by **LSTM Model**. Hence I created its **file with .h5** and deployed it on Flask.
+Here the best results were attained by **LSTM Model**. Hence I created its **file as lstm_model.h5** and deployed it on Flask. Its size was above 25 MB leading to difficulty of upload. So its jupyter notebook has been added in the folder **Deep Learning Models with deployment on flask**.
