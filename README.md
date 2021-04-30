@@ -26,13 +26,6 @@ Here the best results were attained by **Multinomial Naive Bayes**. Hence I crea
 <br>
 https://firstnlpdeployedapp.herokuapp.com/
 <br>
-## This is the tweet entered by me on the api to check the sentiment 
-![Untitled1](https://user-images.githubusercontent.com/75975560/116718940-230d7480-a9f8-11eb-9ffd-dc1ad590d0d7.png)
-
-## As expected its sentiment is positive.
-
-![Untitled2](https://user-images.githubusercontent.com/75975560/116719359-9c0ccc00-a9f8-11eb-92f9-e38918a4f6ea.png)
-
 **3) Using Deep Learning**
 <br>
 **Part A)** Here I used Artificial Neural Networks with only Dense Layers and two Dropout Layers. Initially I displayed the effect of regularization and dropout layer
@@ -44,3 +37,15 @@ layers using Keras Tuner and acheived 98% accuracy on test set and around 93% on
 **Part C)** Here I used Embedding Layers and Bidirectional LSTM alongside Dense and Dropout Layers. I further did hyperparameter tuning for each of the Embedding, Bidirectional LSTM and Dense layers using Keras Tuner and acheived 97.23% accuracy on test set and around 94.26% on validation set in just 4 iterations.
 <br>
 Here the best results were attained by **LSTM Model**. Hence I created its **file as lstm_model.h5** and deployed it on Flask. Its size was above 25 MB leading to difficulty of upload. So its jupyter notebook has been added in the folder **Deep Learning Models with deployment on flask** which downloads lstm_model.h5 in **Google Colab**.
+<br>
+## Screenshots from the LSTM Model which has been deployed using flask.
+![Untitled1](https://user-images.githubusercontent.com/75975560/116721559-14748c80-a9fb-11eb-8013-f62f4e38b7a2.png)
+## As expected the sentiment of tweet is positive.
+![Untitled3](https://user-images.githubusercontent.com/75975560/116721642-2e15d400-a9fb-11eb-9a9d-6f9e9f89a68d.png)
+
+## Similarly the Screenshot for another tweet in the the LSTM Model which has been deployed using flask.
+![Untitled1](https://user-images.githubusercontent.com/75975560/116722165-b4cab100-a9fb-11eb-97c0-388e9d7c1157.png)
+## As expected the sentiment of tweet is negative.
+![Untitled9](https://user-images.githubusercontent.com/75975560/116722248-ca3fdb00-a9fb-11eb-866a-ceb3e1f936e7.png)
+
+
