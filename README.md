@@ -26,8 +26,12 @@ Here the best results were attained by **Multinomial Naive Bayes**. Hence I crea
 <br>
 https://firstnlpdeployedapp.herokuapp.com/
 <br>
-
+## This is the tweet entered by me on the api to check the sentiment 
 ![Untitled1](https://user-images.githubusercontent.com/75975560/116718940-230d7480-a9f8-11eb-9ffd-dc1ad590d0d7.png)
+
+## As expected its sentiment is positive.
+
+![Untitled2](https://user-images.githubusercontent.com/75975560/116719359-9c0ccc00-a9f8-11eb-92f9-e38918a4f6ea.png)
 
 **3) Using Deep Learning**
 <br>
